@@ -1,37 +1,29 @@
+body {
+  background-color: #1CA7ED;
+  text-align: center;
+}
+
 h1 {
-  font-size: ;
-  font-family: ;
-  padding: ;
-  margin: ;
-  font-weight: ;
-  text-decoration: ;
-  color: ;
-  background-color: ;
+  font-family: "Indie Flower", cursive;
+  margin: 25px;
+  text-decoration: underline;
 }
 
 h2 {
-  font-size: ;
-  font-family: ;
-  padding: ;
-  margin: ;
-  font-weight: ;
-  color: ;
-  background-color: ;
+  font-family: "Indie Flower", cursive;
+  margin: 25px;
 }
 
 p {
-  font-family: ;
-  font-size: ;
-  padding: ;
-  margin: ;
-  color: ;
-  background-color: ;
+  font-family: "Indie Flower", cursive;
+  font-size: 20px;
+  margin: 25px;
 }
 
 .logo {
+  background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
   background-size: cover;
-  background-image: url();
-  background-color: ;
-  height: ;
-  width: ;
+  height: 100px;
+  margin: 0 auto;
+  width: 100px;
 }
